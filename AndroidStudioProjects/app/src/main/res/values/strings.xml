@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="text_message">Bienvenido</string>
+    <string name="button_text">Entrar</string>
+</resources>
