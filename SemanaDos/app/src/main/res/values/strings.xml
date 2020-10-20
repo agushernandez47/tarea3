@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SemanaDos</string>
+    <string name="txt_next_btn">Siguiente</string>
+    <string name="txt_fullname">Nombre completo</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_phone">Teléfono</string>
+    <string name="txt_desc_contact">Descripción del contacto</string>
+    <string name="conf_datos">Confirmar datos</string>
+    <string name="edit_datos">Editar datos</string>
+</resources>
